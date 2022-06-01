@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @cheeraulia
+- 👋 Hi, I’m Rahmah
 - 👀 I’m interested in tech
-- 🌱 I’m currently learning bootstrap and going to learn about react js
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning bootstrap and going to learn PHP and Laravel (framework for PHP)
 - 📫 How to reach me, please contact me at email @rah.rahmahaulia@gmail.com
 
 <!---
